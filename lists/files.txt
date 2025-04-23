@@ -1,2 +1,3 @@
 vox1_dev_wav_parta* vox1_dev_wav.zip ae63e55b951748cc486645f532ba230b
-vox2_dev_aac_parta* vox2_dev_aac.zip bbc063c46078a602ca71605645c2a402
+vox2_dev_aac_parta* vox2_aac.zip bbc063c46078a602ca71605645c2a402
+vox2_dev_mp4_parta* vox2_mp4.zip ee7e132c58ed112e2f4f83b4ac1e2aea
